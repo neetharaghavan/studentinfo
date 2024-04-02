@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #484a50;
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 8px;
+}
+
+button {
+    padding: 8px 15px;
+    margin-left: 10px;
+    background-color: rgb(120, 137, 181);
+    color: rgb(19, 20, 22);
+    
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.delete-btn {
+    background-color: #e03112;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.checkbox {
+    margin-right: 10px;
+}
